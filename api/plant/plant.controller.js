@@ -1,8 +1,7 @@
 const logger = require('../../services/logger.service')
-const userService = require('../user/user.service')
+const plantService = require('../plant/plant.service')
 const authService = require('../auth/auth.service')
 const socketService = require('../../services/socket.service')
-const plantService = require('./plant.service')
 
 async function getPlants(req, res) {
   logger.info('getPlants from controller with query params:', req.query)
@@ -17,40 +16,52 @@ async function getPlants(req, res) {
 
 async function addPlant(req, res) {
   console.log('addPlant')
-  var loggedinUser = authService.validateToken(req.cookies.loginToken)
+  // var loggedinPlant = authService.validateToken(req.cookies.loginToken)
 
   try {
     var plant = req.body
-    plant.byUserId = loggedinUser._id
+    plant.byPlantId = loggedinPlant._id
     plant = await plantService.add(plant)
 
-    plant.aboutUser = await userService.getById(plant.aboutUserId)
+    plant.aboutPlant = await plantService.getById(plant.aboutPlantId)
 
-    // var user = await userService.getById(plant.byUserId)
-    // user.score += 10
-    // loggedinUser.score += 10
+    // var plant = await plantService.getById(plant.byPlantId)
+    // plant.score += 10
+    // loggedinPlant.score += 10
 
-    loggedinUser = await userService.update(loggedinUser)
-    // plant.byUser = loggedinUser
+    loggedinPlant = await plantService.update(loggedinPlant)
+    // plant.byPlant = loggedinPlant
 
-    // User info is saved also in the login-token, update it
-    const loginToken = authService.getLoginToken(loggedinUser)
+    // Plant info is saved also in the login-token, update it
+    const loginToken = authService.getLoginToken(loggedinPlant)
     res.cookie('loginToken', loginToken)
 
-    delete plant.aboutUserId
-    delete plant.byUserId
+    delete plant.aboutPlantId
+    delete plant.byPlantId
 
-    // socketService.broadcast({type: 'plant-added', data: plant, userId: loggedinUser._id})
-    // socketService.emitToUser({type: 'plant-about-you', data: plant, userId: plant.aboutUserId})
+    // socketService.broadcast({type: 'plant-added', data: plant, plantId: loggedinPlant._id})
+    // socketService.emitToPlant({type: 'plant-about-you', data: plant, plantId: plant.aboutPlantId})
 
-    // const fullUser = await userService.getById(loggedinUser._id)
-    // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
+    // const fullPlant = await plantService.getById(loggedinPlant._id)
+    // socketService.emitTo({type: 'plant-updated', data: fullPlant, label: fullPlant._id})
 
     res.send(plant)
 
   } catch (err) {
     logger.error('Failed to add plant', err)
     res.status(500).send({ err: 'Failed to add plant' })
+  }
+}
+
+async function updatePlant(req, res) {
+  console.log('updatePlant')
+  try {
+      const plant = req.body
+      const savedPlant = await plantService.update(plant)
+      res.send(savedPlant)
+  } catch (err) {
+      logger.error('Failed to update plant', err)
+      res.status(500).send({ err: 'Failed to update plant' })
   }
 }
 
@@ -115,8 +126,8 @@ module.exports = {
   getPlants,
   deletePlant,
   addPlant,
+  updatePlant,
   getPlantById,
-  // getEmptyPlant,
   getPlantsAsJson,
   getPlantByIdAsJson
 }

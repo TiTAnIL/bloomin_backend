@@ -24,11 +24,11 @@ async function query(filterBy = null) {
 async function remove(plantId) {
   try {
     const store = asyncLocalStorage.getStore()
-    const { loggedinUser } = store
+    const { loggedinPlant } = store
     const collection = await dbService.getCollection(collectionName)
     // remove only if plant is owner/admin
     const criteria = { _id: ObjectId(plantId) }
-    if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
+    if (!loggedinPlant.isAdmin) criteria.byPlantId = ObjectId(loggedinPlant._id)
     const { deletedCount } = await collection.deleteOne(criteria)
     return deletedCount
   } catch (err) {
@@ -37,12 +37,41 @@ async function remove(plantId) {
   }
 }
 
+async function update(plant) {
+  try {
+    console.log(plant._id)
+    console.log(typeof(plant._id), '\n')
+    // peek only updatable properties
+    const plantToSave = {
+      _id: plant._id,
+      name: plant.name,
+      about: plant.about,
+      price: plant.price,
+      height: plant.height,
+      diameter: plant.diameter,
+      pic: plant.pic,
+      location: plant.location,
+      difficulty: plant.difficulty,
+      lightning: plant.lightning,
+      irrigation: plant.irrigation,
+    };
+
+    const collection = await dbService.getCollection(collectionName)
+    await collection.updateOne({ _id: plantToSave._id }, { $set: plantToSave })
+    logger.info(`updated plant ${plantToSave._id}`)
+    return plantToSave
+  } catch (err) {
+    logger.error(`cannot update plant ${plant._id}`, err)
+    throw err
+  }
+}
+
 async function add(plant) {
-  console.log('plant.service - add')
+  console.log('plant.service - add', plant)
   try {
     const plantToAdd = {
-      byUserId: ObjectId(plant.byUserId),
-      aboutUserId: ObjectId(plant.aboutUserId),
+      byPlantId: ObjectId(plant.byPlantId),
+      aboutPlantId: ObjectId(plant.aboutPlantId),
       txt: plant.txt
     }
     const collection = await dbService.getCollection(collectionName)
@@ -87,7 +116,7 @@ function _buildCriteria(filterBy) {
     );
     criteria.location = { $in: selectedLocations };
   }
- // console.log('_buildCriteria criteria', criteria)
+  // console.log('_buildCriteria criteria', criteria)
   return criteria;
 }
 
@@ -106,6 +135,7 @@ async function getPlantById(plantId) {
 module.exports = {
   query,
   remove,
+  update,
   add,
   getPlantById,
 }

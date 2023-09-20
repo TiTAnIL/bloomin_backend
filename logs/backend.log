@@ -2877,3 +2877,331 @@
 20.9.2023, 9:10:26 - INFO - getPlants from controller with query params: | {} 
 20.9.2023, 9:10:26 - INFO - Sample Logger Middleware 
 20.9.2023, 9:10:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:15 - INFO - Server is running on port: 3030 
+20.9.2023, 9:41:25 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:25 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:25 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:25 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:26 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:26 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:57 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:57 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:58 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:58 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:58 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:58 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:41:59 - INFO - Sample Logger Middleware 
+20.9.2023, 9:41:59 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:58:28 - INFO - Sample Logger Middleware 
+20.9.2023, 9:58:28 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:58:28 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:58:28 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:22 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:22 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:59:23 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:59:23 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:25 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:25 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:59:26 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 9:59:28 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 9:59:28 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 9:59:41 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:41 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+20.9.2023, 9:59:41 - INFO - Sample Logger Middleware 
+20.9.2023, 9:59:41 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+20.9.2023, 10:12:01 - INFO - Sample Logger Middleware 
+20.9.2023, 10:12:01 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:12:02 - INFO - Sample Logger Middleware 
+20.9.2023, 10:12:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:17:59 - INFO - Sample Logger Middleware 
+20.9.2023, 10:17:59 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:17:59 - INFO - Sample Logger Middleware 
+20.9.2023, 10:17:59 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:18:11 - INFO - Sample Logger Middleware 
+20.9.2023, 10:18:11 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:18:11 - INFO - Sample Logger Middleware 
+20.9.2023, 10:18:12 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:18:36 - INFO - Sample Logger Middleware 
+20.9.2023, 10:18:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:18:36 - INFO - Sample Logger Middleware 
+20.9.2023, 10:18:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:02 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:02 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:03 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:06 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:06 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:06 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:06 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:07 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:07 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:08 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:08 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:08 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:08 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:08 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:08 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:33 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:33 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:34 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:34 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:39 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:39 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:40 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:23:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:23:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:23:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:26:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:26:40 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+20.9.2023, 10:26:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:26:41 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+20.9.2023, 10:33:28 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:33:28 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:33:34 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:34 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:33:34 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:34 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:34 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:33:34 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:33:34 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:35 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:33:38 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:33:38 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:38 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:38 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:33:39 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:39 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:33:40 - INFO - Sample Logger Middleware 
+20.9.2023, 10:33:40 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:39:03 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:04 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:04 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:04 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:17 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:18 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:18 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:18 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:45 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:45 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:47 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:47 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:39:47 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:47 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:39:48 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:48 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:39:49 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:49 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:39:49 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:49 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:39:49 - INFO - Sample Logger Middleware 
+20.9.2023, 10:39:50 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:41:45 - INFO - Sample Logger Middleware 
+20.9.2023, 10:41:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:41:45 - INFO - Sample Logger Middleware 
+20.9.2023, 10:41:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:41:52 - INFO - Sample Logger Middleware 
+20.9.2023, 10:41:52 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:41:53 - INFO - Sample Logger Middleware 
+20.9.2023, 10:41:53 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:42:05 - INFO - Sample Logger Middleware 
+20.9.2023, 10:42:05 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:42:05 - INFO - Sample Logger Middleware 
+20.9.2023, 10:42:05 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:53:29 - INFO - Sample Logger Middleware 
+20.9.2023, 10:53:29 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:53:29 - INFO - Sample Logger Middleware 
+20.9.2023, 10:53:29 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:26 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:26 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:26 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:30 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:30 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:31 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:38 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:38 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:39 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 10:59:39 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:57 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:57 - INFO - Sample Logger Middleware 
+20.9.2023, 10:59:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 10:59:58 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:01:14 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:01:14 - INFO - Sample Logger Middleware 
+20.9.2023, 11:01:14 - INFO - Sample Logger Middleware 
+20.9.2023, 11:01:14 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:23:31 - INFO - Sample Logger Middleware 
+20.9.2023, 11:23:31 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:23:32 - INFO - Sample Logger Middleware 
+20.9.2023, 11:23:32 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:26:00 - INFO - Sample Logger Middleware 
+20.9.2023, 11:26:00 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:26:00 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:26:00 - INFO - Sample Logger Middleware 
+20.9.2023, 11:26:07 - INFO - Sample Logger Middleware 
+20.9.2023, 11:26:07 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:26:08 - INFO - Sample Logger Middleware 
+20.9.2023, 11:26:08 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:47:53 - INFO - Sample Logger Middleware 
+20.9.2023, 11:47:53 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:47:54 - INFO - Sample Logger Middleware 
+20.9.2023, 11:47:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:54:07 - INFO - Server is running on port: 3030 
+20.9.2023, 11:54:31 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:54:31 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 11:54:45 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:45 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:54:46 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:54:56 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:56 - INFO - Sample Logger Middleware 
+20.9.2023, 11:54:56 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+20.9.2023, 11:54:56 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+20.9.2023, 11:55:02 - INFO - Sample Logger Middleware 
+20.9.2023, 11:55:02 - ERROR - cannot update plant 64f9ddba3c9fc5db44288816 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 11:55:02 - ERROR - Failed to update user | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 11:59:07 - INFO - Sample Logger Middleware 
+20.9.2023, 11:59:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 11:59:07 - INFO - Sample Logger Middleware 
+20.9.2023, 11:59:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 12:59:02 - INFO - Server is running on port: 3030 
+20.9.2023, 12:59:07 - INFO - Sample Logger Middleware 
+20.9.2023, 12:59:07 - ERROR - cannot update plant 64f9dd7e3c9fc5db44288814 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 12:59:07 - ERROR - Failed to update plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 12:59:34 - INFO - Sample Logger Middleware 
+20.9.2023, 12:59:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 12:59:36 - INFO - Sample Logger Middleware 
+20.9.2023, 12:59:37 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 12:59:40 - INFO - Sample Logger Middleware 
+20.9.2023, 12:59:40 - ERROR - Failed to update plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 12:59:40 - ERROR - cannot update plant 64f9dd7e3c9fc5db44288814 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+20.9.2023, 13:03:49 - INFO - Server is running on port: 3030 
+20.9.2023, 13:03:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:03:55 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:03:55 - INFO - Sample Logger Middleware 
+20.9.2023, 13:03:55 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:06 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:28 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:04:28 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:28 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:04:28 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:39 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:39 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:39 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:39 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:48 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:49 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:49 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:49 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:04:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:04:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:05:01 - INFO - Sample Logger Middleware 
+20.9.2023, 13:05:17 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:05:17 - INFO - Sample Logger Middleware 
+20.9.2023, 13:05:18 - INFO - Sample Logger Middleware 
+20.9.2023, 13:05:18 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:08:22 - INFO - Server is running on port: 3030 
+20.9.2023, 13:08:35 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:36 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:44 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:47 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:47 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:47 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:47 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:56 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:56 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:56 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:08:59 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:08:59 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:59 - INFO - Sample Logger Middleware 
+20.9.2023, 13:08:59 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:09:05 - INFO - Sample Logger Middleware 
+20.9.2023, 13:09:06 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:09:06 - INFO - Sample Logger Middleware 
+20.9.2023, 13:09:06 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:09:17 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:08 - INFO - Server is running on port: 3030 
+20.9.2023, 13:14:18 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:18 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:14:19 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:19 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:14:22 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:22 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:14:22 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:22 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:14:37 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:42 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:42 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:14:42 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:42 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:14:57 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:14:57 - INFO - Sample Logger Middleware 
+20.9.2023, 13:14:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:24 - INFO - Server is running on port: 3030 
+20.9.2023, 13:20:28 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:28 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:20:30 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:30 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:20:31 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:20:31 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:20:31 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:31 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:20:35 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:35 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:35 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:35 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:40 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:40 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:49 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:49 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:49 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:50 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:20:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:20:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:21:02 - INFO - Sample Logger Middleware 
+20.9.2023, 13:21:02 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:21:03 - INFO - Sample Logger Middleware 
+20.9.2023, 13:21:03 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:21:48 - INFO - Server is running on port: 3030 
+20.9.2023, 13:21:52 - INFO - Sample Logger Middleware 
+20.9.2023, 13:21:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:21:54 - INFO - Sample Logger Middleware 
+20.9.2023, 13:21:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:21:56 - INFO - Sample Logger Middleware 
+20.9.2023, 13:21:56 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:22:00 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:00 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:22:00 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:00 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:22:04 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:04 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:22:04 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:04 - INFO - getPlants from controller with query params: | {} 
+20.9.2023, 13:22:06 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:06 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 13:22:07 - INFO - Sample Logger Middleware 
+20.9.2023, 13:22:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
