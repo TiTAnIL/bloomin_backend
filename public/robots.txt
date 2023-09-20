@@ -1,0 +1,3 @@
+# https://www.plantstxt.org/plantstxt.html
+User-agent: *
+Disallow:
