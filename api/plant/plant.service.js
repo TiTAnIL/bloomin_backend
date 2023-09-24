@@ -22,13 +22,14 @@ async function query(filterBy = null) {
 }
 
 async function remove(plantId) {
+  console.log('remove plantId', plantId)
   try {
-    const store = asyncLocalStorage.getStore()
-    const { loggedinPlant } = store
+    // const store = asyncLocalStorage.getStore()
+    // const { loggedinUser } = store
     const collection = await dbService.getCollection(collectionName)
     // remove only if plant is owner/admin
-    const criteria = { _id: ObjectId(plantId) }
-    if (!loggedinPlant.isAdmin) criteria.byPlantId = ObjectId(loggedinPlant._id)
+    const criteria = { _id: new ObjectId(plantId) }
+    // if (!loggedinUser.isAdmin) criteria.byPlantId = ObjectId(loggedinUser._id)
     const { deletedCount } = await collection.deleteOne(criteria)
     return deletedCount
   } catch (err) {
@@ -40,10 +41,10 @@ async function remove(plantId) {
 async function update(plant) {
   try {
     console.log(plant._id)
-    console.log(typeof(plant._id), '\n')
+    console.log(typeof (plant._id), '\n')
     // peek only updatable properties
     const plantToSave = {
-      _id: plant._id,
+      _id: new ObjectId(plant._id),
       name: plant.name,
       about: plant.about,
       price: plant.price,
@@ -54,8 +55,7 @@ async function update(plant) {
       difficulty: plant.difficulty,
       lightning: plant.lightning,
       irrigation: plant.irrigation,
-    };
-
+    }
     const collection = await dbService.getCollection(collectionName)
     await collection.updateOne({ _id: plantToSave._id }, { $set: plantToSave })
     logger.info(`updated plant ${plantToSave._id}`)
@@ -67,13 +67,21 @@ async function update(plant) {
 }
 
 async function add(plant) {
-  console.log('plant.service - add', plant)
   try {
+    console.log('plant.service - add - plant:', plant)
     const plantToAdd = {
-      byPlantId: ObjectId(plant.byPlantId),
-      aboutPlantId: ObjectId(plant.aboutPlantId),
-      txt: plant.txt
+      name: plant.name,
+      about: plant.about,
+      price: plant.price,
+      height: plant.height,
+      diameter: plant.diameter,
+      pic: plant.pic,
+      location: plant.location,
+      difficulty: plant.difficulty,
+      lightning: plant.lightning,
+      irrigation: plant.irrigation,
     }
+    console.log('\n\n plant.service - add - plantToAdd:', plantToAdd, '\n\n')
     const collection = await dbService.getCollection(collectionName)
     await collection.insertOne(plantToAdd)
     return plantToAdd

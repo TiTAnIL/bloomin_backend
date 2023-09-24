@@ -6,7 +6,9 @@ module.exports = {
     getCollection
 }
 
-// Database detailss
+const dbName = 'bloomin'
+const dbUserName ='titan'
+const dbPassword ='titnt2020'
 
 
 var dbConn = null

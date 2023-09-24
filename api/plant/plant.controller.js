@@ -15,29 +15,28 @@ async function getPlants(req, res) {
 } 
 
 async function addPlant(req, res) {
-  console.log('addPlant')
   // var loggedinPlant = authService.validateToken(req.cookies.loginToken)
 
   try {
     var plant = req.body
-    plant.byPlantId = loggedinPlant._id
+    // plant.byPlantId = loggedinPlant._id
     plant = await plantService.add(plant)
 
-    plant.aboutPlant = await plantService.getById(plant.aboutPlantId)
+    // plant.aboutPlant = await plantService.getById(plant.aboutPlantId)
 
     // var plant = await plantService.getById(plant.byPlantId)
     // plant.score += 10
     // loggedinPlant.score += 10
 
-    loggedinPlant = await plantService.update(loggedinPlant)
+    // loggedinPlant = await plantService.update(loggedinPlant)
     // plant.byPlant = loggedinPlant
 
     // Plant info is saved also in the login-token, update it
-    const loginToken = authService.getLoginToken(loggedinPlant)
-    res.cookie('loginToken', loginToken)
+    // const loginToken = authService.getLoginToken(loggedinPlant)
+    // res.cookie('loginToken', loginToken)
 
-    delete plant.aboutPlantId
-    delete plant.byPlantId
+    // delete plant.aboutPlantId
+    // delete plant.byPlantId
 
     // socketService.broadcast({type: 'plant-added', data: plant, plantId: loggedinPlant._id})
     // socketService.emitToPlant({type: 'plant-about-you', data: plant, plantId: plant.aboutPlantId})
@@ -46,7 +45,7 @@ async function addPlant(req, res) {
     // socketService.emitTo({type: 'plant-updated', data: fullPlant, label: fullPlant._id})
 
     res.send(plant)
-
+    logger.info('addPlant from controller with plant')
   } catch (err) {
     logger.error('Failed to add plant', err)
     res.status(500).send({ err: 'Failed to add plant' })
@@ -79,9 +78,8 @@ async function getPlantById(req, res) {
 }
 
 async function deletePlant(req, res) {
-  console.log('deletePlant')
   try {
-    const deletedCount = await plantService.remove(req.params.id)
+    const deletedCount = await plantService.remove(req.params.plantId)
     if (deletedCount === 1) {
       res.send({ msg: 'Deleted successfully' })
     } else {

@@ -3205,3 +3205,746 @@
 20.9.2023, 13:22:06 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
 20.9.2023, 13:22:07 - INFO - Sample Logger Middleware 
 20.9.2023, 13:22:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 22:57:39 - INFO - Sample Logger Middleware 
+20.9.2023, 22:57:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+20.9.2023, 22:57:40 - INFO - Sample Logger Middleware 
+20.9.2023, 22:57:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 11:46:05 - INFO - Server is running on port: 3030 
+22.9.2023, 11:46:19 - INFO - Sample Logger Middleware 
+22.9.2023, 11:46:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 11:46:19 - INFO - Sample Logger Middleware 
+22.9.2023, 11:46:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 11:46:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 11:46:19 - INFO - Sample Logger Middleware 
+22.9.2023, 11:46:19 - INFO - Sample Logger Middleware 
+22.9.2023, 11:46:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 11:51:30 - INFO - Sample Logger Middleware 
+22.9.2023, 11:51:30 - INFO - Sample Logger Middleware 
+22.9.2023, 11:51:30 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 11:51:31 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 11:51:51 - INFO - Sample Logger Middleware 
+22.9.2023, 11:51:51 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+22.9.2023, 12:45:35 - INFO - Server is running on port: 3030 
+22.9.2023, 12:45:57 - INFO - Sample Logger Middleware 
+22.9.2023, 12:45:57 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 12:45:57 - INFO - Sample Logger Middleware 
+22.9.2023, 12:45:57 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 12:45:58 - INFO - Sample Logger Middleware 
+22.9.2023, 12:45:58 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 12:45:58 - INFO - Sample Logger Middleware 
+22.9.2023, 12:45:58 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 12:46:01 - INFO - Sample Logger Middleware 
+22.9.2023, 12:46:02 - INFO - Sample Logger Middleware 
+22.9.2023, 12:46:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 12:46:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 12:46:20 - INFO - Sample Logger Middleware 
+22.9.2023, 12:46:20 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:05:30 - INFO - Server is running on port: 3030 
+22.9.2023, 13:06:04 - INFO - Server is running on port: 3030 
+22.9.2023, 13:06:11 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:11 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:11 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:11 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:12 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:12 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:12 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:12 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:18 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:18 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:18 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:06:19 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:06:21 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:21 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:22 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:06:22 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:06:33 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:33 - ERROR - cannot update plant 64f9ddad3c9fc5db44288815 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+22.9.2023, 13:06:33 - ERROR - Failed to update plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+22.9.2023, 13:06:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:06:51 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:51 - INFO - Sample Logger Middleware 
+22.9.2023, 13:06:51 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:06:51 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+22.9.2023, 13:08:40 - INFO - Sample Logger Middleware 
+22.9.2023, 13:08:40 - INFO - Sample Logger Middleware 
+22.9.2023, 13:08:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:08:40 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:08:53 - INFO - Sample Logger Middleware 
+22.9.2023, 13:08:53 - ERROR - Failed to update plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+22.9.2023, 13:08:53 - ERROR - cannot update plant 64f9dd7e3c9fc5db44288814 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+22.9.2023, 13:09:13 - INFO - Server is running on port: 3030 
+22.9.2023, 13:09:20 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:20 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:21 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:21 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:21 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:21 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:22 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:22 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:27 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:27 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:09:27 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:09:38 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:38 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:09:48 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:48 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:48 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:48 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:49 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:49 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:52 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:52 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:52 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:52 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:52 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:52 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:52 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:52 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:56 - INFO - Sample Logger Middleware 
+22.9.2023, 13:09:56 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:57 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 13:09:57 - INFO - Sample Logger Middleware 
+22.9.2023, 13:10:03 - INFO - Sample Logger Middleware 
+22.9.2023, 13:10:03 - INFO - Sample Logger Middleware 
+22.9.2023, 13:10:03 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:10:03 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+22.9.2023, 13:10:28 - INFO - Sample Logger Middleware 
+22.9.2023, 13:10:28 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 14:08:06 - INFO - Server is running on port: 3030 
+22.9.2023, 14:08:18 - INFO - Sample Logger Middleware 
+22.9.2023, 14:08:18 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 14:08:18 - INFO - Sample Logger Middleware 
+22.9.2023, 14:08:19 - INFO - Sample Logger Middleware 
+22.9.2023, 14:08:18 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 14:08:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 14:08:19 - INFO - Sample Logger Middleware 
+22.9.2023, 14:08:19 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 14:08:33 - INFO - Sample Logger Middleware 
+22.9.2023, 14:08:33 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 18:15:53 - INFO - Server is running on port: 3030 
+22.9.2023, 18:15:58 - INFO - Sample Logger Middleware 
+22.9.2023, 18:15:58 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:15:59 - INFO - Sample Logger Middleware 
+22.9.2023, 18:15:59 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:15:59 - INFO - Sample Logger Middleware 
+22.9.2023, 18:15:59 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:15:59 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:15:59 - INFO - Sample Logger Middleware 
+22.9.2023, 18:16:13 - INFO - Sample Logger Middleware 
+22.9.2023, 18:16:13 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 18:20:00 - INFO - Server is running on port: 3030 
+22.9.2023, 18:20:04 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:04 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:20:04 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:04 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:20:05 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:20:05 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:05 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 18:20:05 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:16 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:17 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 18:20:45 - INFO - Sample Logger Middleware 
+22.9.2023, 18:20:45 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 19:41:16 - INFO - Server is running on port: 3030 
+22.9.2023, 19:41:23 - INFO - Sample Logger Middleware 
+22.9.2023, 19:41:23 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 19:41:23 - INFO - Sample Logger Middleware 
+22.9.2023, 19:41:23 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 19:41:23 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 19:41:23 - INFO - Sample Logger Middleware 
+22.9.2023, 19:41:24 - INFO - Sample Logger Middleware 
+22.9.2023, 19:41:24 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 19:41:35 - INFO - Sample Logger Middleware 
+22.9.2023, 19:41:36 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 19:42:14 - INFO - Sample Logger Middleware 
+22.9.2023, 19:42:15 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+22.9.2023, 20:09:57 - INFO - Server is running on port: 3030 
+22.9.2023, 20:10:10 - INFO - Sample Logger Middleware 
+22.9.2023, 20:10:10 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 20:10:10 - INFO - Sample Logger Middleware 
+22.9.2023, 20:10:10 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 20:10:10 - INFO - Sample Logger Middleware 
+22.9.2023, 20:10:10 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 20:10:11 - INFO - Sample Logger Middleware 
+22.9.2023, 20:10:11 - INFO - getPlants from controller with query params: | {} 
+22.9.2023, 20:10:33 - INFO - Sample Logger Middleware 
+22.9.2023, 20:10:33 - ERROR - Failed to add plant | ReferenceError: loggedinPlant is not defined 
+23.9.2023, 10:20:02 - INFO - Server is running on port: 3030 
+23.9.2023, 10:45:16 - INFO - Server is running on port: 3030 
+23.9.2023, 10:45:26 - INFO - Sample Logger Middleware 
+23.9.2023, 10:45:26 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:45:26 - INFO - Sample Logger Middleware 
+23.9.2023, 10:45:26 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:45:27 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:45:27 - INFO - Sample Logger Middleware 
+23.9.2023, 10:45:27 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:45:27 - INFO - Sample Logger Middleware 
+23.9.2023, 10:45:37 - INFO - Sample Logger Middleware 
+23.9.2023, 10:45:37 - ERROR - cannot insert plant | ReferenceError: Cannot access 'collection' before initialization 
+23.9.2023, 10:45:37 - ERROR - Failed to add plant | ReferenceError: Cannot access 'collection' before initialization 
+23.9.2023, 10:47:25 - INFO - Server is running on port: 3030 
+23.9.2023, 10:47:42 - INFO - Sample Logger Middleware 
+23.9.2023, 10:47:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:47:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:47:42 - INFO - Sample Logger Middleware 
+23.9.2023, 10:47:42 - INFO - Sample Logger Middleware 
+23.9.2023, 10:47:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:47:43 - INFO - Sample Logger Middleware 
+23.9.2023, 10:47:43 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:47:58 - INFO - Sample Logger Middleware 
+23.9.2023, 10:47:59 - INFO - addPlant from controller with plant 
+23.9.2023, 10:48:31 - INFO - Sample Logger Middleware 
+23.9.2023, 10:48:31 - INFO - Sample Logger Middleware 
+23.9.2023, 10:48:31 - INFO - getPlantById from controller with plantId: | 650e982e07901c467f924f4d 
+23.9.2023, 10:48:31 - INFO - getPlantById from controller with plantId: | 650e982e07901c467f924f4d 
+23.9.2023, 10:49:17 - INFO - Sample Logger Middleware 
+23.9.2023, 10:49:17 - INFO - Sample Logger Middleware 
+23.9.2023, 10:49:17 - INFO - getPlantById from controller with plantId: | 650db0b0f67b8e8b5256f151 
+23.9.2023, 10:49:17 - INFO - getPlantById from controller with plantId: | 650db0b0f67b8e8b5256f151 
+23.9.2023, 10:49:56 - INFO - Sample Logger Middleware 
+23.9.2023, 10:49:56 - INFO - addPlant from controller with plant 
+23.9.2023, 10:50:03 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:03 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:04 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:04 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:04 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:09 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:09 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:09 - INFO - getPlantById from controller with plantId: | 650e98a407901c467f924f50 
+23.9.2023, 10:50:09 - INFO - getPlantById from controller with plantId: | 650e98a407901c467f924f50 
+23.9.2023, 10:50:14 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:14 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:15 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:15 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:15 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:15 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:15 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 10:50:15 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:43 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:44 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:44 - INFO - getPlantById from controller with plantId: | 650e98a407901c467f924f4f 
+23.9.2023, 10:50:44 - INFO - getPlantById from controller with plantId: | 650e98a407901c467f924f4f 
+23.9.2023, 10:50:50 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:50 - INFO - Sample Logger Middleware 
+23.9.2023, 10:50:50 - INFO - getPlantById from controller with plantId: | 650dca8939639120b7aa8d17 
+23.9.2023, 10:50:50 - INFO - getPlantById from controller with plantId: | 650dca8939639120b7aa8d17 
+23.9.2023, 11:34:13 - INFO - Sample Logger Middleware 
+23.9.2023, 11:34:13 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:09 - INFO - Server is running on port: 3030 
+23.9.2023, 11:36:18 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:19 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:19 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:19 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:19 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:19 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:19 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:27 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:27 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:27 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:27 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:30 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:30 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:30 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:30 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:37 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:37 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:37 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:37 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:36:53 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:53 - INFO - Sample Logger Middleware 
+23.9.2023, 11:36:53 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 11:36:54 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 11:37:02 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:02 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 11:37:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 11:37:07 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:07 - INFO - updated plant 64f9dd7e3c9fc5db44288814 
+23.9.2023, 11:37:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:37:09 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:10 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:37:10 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:37 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:37 - ERROR - cannot remove plant undefined | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:37:37 - ERROR - Failed to delete plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:37:52 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:52 - INFO - addPlant from controller with plant 
+23.9.2023, 11:37:59 - INFO - Sample Logger Middleware 
+23.9.2023, 11:37:59 - ERROR - cannot remove plant undefined | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:37:59 - ERROR - Failed to delete plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:38:06 - INFO - Sample Logger Middleware 
+23.9.2023, 11:38:06 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:38:06 - INFO - Sample Logger Middleware 
+23.9.2023, 11:38:06 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:40:12 - INFO - Server is running on port: 3030 
+23.9.2023, 11:40:15 - INFO - Sample Logger Middleware 
+23.9.2023, 11:40:17 - ERROR - cannot remove plant 650ea3e0bcf4259a8a590365 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:40:17 - ERROR - Failed to delete plant | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+23.9.2023, 11:43:18 - INFO - Server is running on port: 3030 
+23.9.2023, 11:43:23 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:23 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:43:24 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:43:24 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:43:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 11:43:24 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:29 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:31 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:33 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:34 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:35 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:39 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:41 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:43 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:44 - INFO - Sample Logger Middleware 
+23.9.2023, 11:43:46 - INFO - Sample Logger Middleware 
+23.9.2023, 13:30:20 - INFO - Sample Logger Middleware 
+23.9.2023, 13:30:20 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 13:30:22 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 13:30:22 - INFO - Sample Logger Middleware 
+23.9.2023, 13:30:32 - INFO - Sample Logger Middleware 
+23.9.2023, 13:30:32 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 13:32:28 - INFO - Sample Logger Middleware 
+23.9.2023, 13:32:28 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 13:57:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 13:57:42 - INFO - Sample Logger Middleware 
+23.9.2023, 14:04:16 - INFO - Sample Logger Middleware 
+23.9.2023, 14:04:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:17:14 - INFO - Sample Logger Middleware 
+23.9.2023, 14:17:14 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:17:42 - INFO - Sample Logger Middleware 
+23.9.2023, 14:17:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:17:42 - INFO - Sample Logger Middleware 
+23.9.2023, 14:17:42 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:18:14 - INFO - Sample Logger Middleware 
+23.9.2023, 14:18:14 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:18:14 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:18:14 - INFO - Sample Logger Middleware 
+23.9.2023, 14:18:15 - INFO - Sample Logger Middleware 
+23.9.2023, 14:18:15 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 14:18:15 - INFO - Sample Logger Middleware 
+23.9.2023, 14:18:15 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:28:50 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:28:50 - INFO - Sample Logger Middleware 
+23.9.2023, 18:28:50 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:28:50 - INFO - Sample Logger Middleware 
+23.9.2023, 18:28:50 - INFO - Sample Logger Middleware 
+23.9.2023, 18:28:50 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:28:51 - INFO - Sample Logger Middleware 
+23.9.2023, 18:28:51 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:35:54 - INFO - Sample Logger Middleware 
+23.9.2023, 18:35:54 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:35:54 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:35:54 - INFO - Sample Logger Middleware 
+23.9.2023, 18:36:13 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:36:13 - INFO - Sample Logger Middleware 
+23.9.2023, 18:36:13 - INFO - Sample Logger Middleware 
+23.9.2023, 18:36:13 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:36:13 - INFO - Sample Logger Middleware 
+23.9.2023, 18:36:13 - INFO - Sample Logger Middleware 
+23.9.2023, 18:36:13 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:36:13 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:42:33 - INFO - Sample Logger Middleware 
+23.9.2023, 18:42:33 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:42:34 - INFO - Sample Logger Middleware 
+23.9.2023, 18:42:34 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:44:44 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:44:44 - INFO - Sample Logger Middleware 
+23.9.2023, 18:44:44 - INFO - Sample Logger Middleware 
+23.9.2023, 18:44:44 - INFO - Sample Logger Middleware 
+23.9.2023, 18:44:44 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:44:44 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:44:45 - INFO - Sample Logger Middleware 
+23.9.2023, 18:44:45 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:48:54 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:48:54 - INFO - Sample Logger Middleware 
+23.9.2023, 18:48:54 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:48:54 - INFO - Sample Logger Middleware 
+23.9.2023, 18:48:55 - INFO - Sample Logger Middleware 
+23.9.2023, 18:48:55 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:48:55 - INFO - Sample Logger Middleware 
+23.9.2023, 18:48:55 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:49:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:49:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:49:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:49:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:49:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:49:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:49:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:49:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:19 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:19 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:19 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:19 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:24 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:24 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:25 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:25 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:50:25 - INFO - Sample Logger Middleware 
+23.9.2023, 18:50:25 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:51:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:51:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:51:18 - INFO - Sample Logger Middleware 
+23.9.2023, 18:51:18 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:24 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:25 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:25 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:25 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:25 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:25 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:25 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:35 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:35 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:36 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:36 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:36 - INFO - Sample Logger Middleware 
+23.9.2023, 18:53:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:53:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:55:45 - INFO - Sample Logger Middleware 
+23.9.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:55:45 - INFO - Sample Logger Middleware 
+23.9.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:55:45 - INFO - Sample Logger Middleware 
+23.9.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:55:45 - INFO - Sample Logger Middleware 
+23.9.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:57:55 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:57:55 - INFO - Sample Logger Middleware 
+23.9.2023, 18:57:55 - INFO - Sample Logger Middleware 
+23.9.2023, 18:57:55 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:58:16 - INFO - Sample Logger Middleware 
+23.9.2023, 18:58:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:58:16 - INFO - Sample Logger Middleware 
+23.9.2023, 18:58:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:58:17 - INFO - Sample Logger Middleware 
+23.9.2023, 18:58:16 - INFO - Sample Logger Middleware 
+23.9.2023, 18:58:17 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:58:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:59:43 - INFO - Sample Logger Middleware 
+23.9.2023, 18:59:43 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:59:44 - INFO - Sample Logger Middleware 
+23.9.2023, 18:59:43 - INFO - Sample Logger Middleware 
+23.9.2023, 18:59:43 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:59:44 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 18:59:44 - INFO - Sample Logger Middleware 
+23.9.2023, 18:59:44 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:00:01 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:01 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:01 - INFO - getPlantById from controller with plantId: | 64f9dde43c9fc5db44288819 
+23.9.2023, 19:00:01 - INFO - getPlantById from controller with plantId: | 64f9dde43c9fc5db44288819 
+23.9.2023, 19:00:04 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:05 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:05 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+23.9.2023, 19:00:05 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+23.9.2023, 19:00:08 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:08 - INFO - Sample Logger Middleware 
+23.9.2023, 19:00:08 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 19:00:08 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+23.9.2023, 19:04:08 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:04:08 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:04:09 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:04:09 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:04:31 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:31 - INFO - Sample Logger Middleware 
+23.9.2023, 19:04:31 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+23.9.2023, 19:04:31 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+23.9.2023, 19:05:56 - INFO - Sample Logger Middleware 
+23.9.2023, 19:05:56 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:05:56 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:05:56 - INFO - Sample Logger Middleware 
+23.9.2023, 19:05:56 - INFO - Sample Logger Middleware 
+23.9.2023, 19:05:56 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 19:05:57 - INFO - Sample Logger Middleware 
+23.9.2023, 19:05:57 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:21:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:21:30 - INFO - Sample Logger Middleware 
+23.9.2023, 20:21:30 - INFO - Sample Logger Middleware 
+23.9.2023, 20:21:30 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:26:37 - INFO - Sample Logger Middleware 
+23.9.2023, 20:26:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:26:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:26:37 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:00 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:00 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:00 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:00 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:01 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:01 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:29 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:29 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:29 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:29 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:33 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:33 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:33 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:33 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:33 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:33 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:27:34 - INFO - Sample Logger Middleware 
+23.9.2023, 20:27:34 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:28:39 - INFO - Sample Logger Middleware 
+23.9.2023, 20:28:39 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 20:28:40 - INFO - Sample Logger Middleware 
+23.9.2023, 20:28:40 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:03:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:03:37 - INFO - Sample Logger Middleware 
+23.9.2023, 21:03:37 - INFO - Sample Logger Middleware 
+23.9.2023, 21:03:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:03:37 - INFO - Sample Logger Middleware 
+23.9.2023, 21:03:37 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:03:38 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:03:38 - INFO - Sample Logger Middleware 
+23.9.2023, 21:04:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:04:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:04:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:04:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:04:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:04:59 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:04:59 - INFO - Sample Logger Middleware 
+23.9.2023, 21:04:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:08 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:08 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:52 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:52 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:53 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:53 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:53 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:53 - INFO - Sample Logger Middleware 
+23.9.2023, 21:05:53 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:05:53 - INFO - Sample Logger Middleware 
+23.9.2023, 21:11:57 - INFO - Sample Logger Middleware 
+23.9.2023, 21:11:57 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:11:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:11:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:11:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:11:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:11:58 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:11:58 - INFO - Sample Logger Middleware 
+23.9.2023, 21:12:21 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:12:21 - INFO - Sample Logger Middleware 
+23.9.2023, 21:12:22 - INFO - Sample Logger Middleware 
+23.9.2023, 21:12:22 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:12:22 - INFO - Sample Logger Middleware 
+23.9.2023, 21:12:22 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:12:22 - INFO - Sample Logger Middleware 
+23.9.2023, 21:12:22 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:51:01 - INFO - Sample Logger Middleware 
+23.9.2023, 21:51:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:51:01 - INFO - Sample Logger Middleware 
+23.9.2023, 21:51:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:51:01 - INFO - Sample Logger Middleware 
+23.9.2023, 21:51:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:51:01 - INFO - Sample Logger Middleware 
+23.9.2023, 21:51:01 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:53:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:53:08 - INFO - Sample Logger Middleware 
+23.9.2023, 21:53:08 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:53:08 - INFO - Sample Logger Middleware 
+23.9.2023, 21:53:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:53:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:53:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:53:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:57:53 - INFO - Sample Logger Middleware 
+23.9.2023, 21:57:53 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:57:53 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:57:53 - INFO - Sample Logger Middleware 
+23.9.2023, 21:58:35 - INFO - Sample Logger Middleware 
+23.9.2023, 21:58:35 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:58:36 - INFO - Sample Logger Middleware 
+23.9.2023, 21:58:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:58:36 - INFO - Sample Logger Middleware 
+23.9.2023, 21:58:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:58:36 - INFO - Sample Logger Middleware 
+23.9.2023, 21:58:36 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:59:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:09 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:09 - INFO - Sample Logger Middleware 
+23.9.2023, 21:59:16 - INFO - Sample Logger Middleware 
+23.9.2023, 21:59:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:16 - INFO - Sample Logger Middleware 
+23.9.2023, 21:59:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:16 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 21:59:16 - INFO - Sample Logger Middleware 
+23.9.2023, 21:59:16 - INFO - Sample Logger Middleware 
+23.9.2023, 22:00:11 - INFO - Sample Logger Middleware 
+23.9.2023, 22:00:11 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:00:11 - INFO - Sample Logger Middleware 
+23.9.2023, 22:00:11 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:01:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:01:24 - INFO - Sample Logger Middleware 
+23.9.2023, 22:01:24 - INFO - Sample Logger Middleware 
+23.9.2023, 22:01:24 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:01:48 - INFO - Sample Logger Middleware 
+23.9.2023, 22:01:48 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:01:48 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:01:48 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:04 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:04 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:04 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:04 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:04 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:51 - INFO - Sample Logger Middleware 
+23.9.2023, 22:02:51 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:51 - INFO - getPlants from controller with query params: | {} 
+23.9.2023, 22:02:51 - INFO - Sample Logger Middleware 
+24.9.2023, 18:47:51 - INFO - Server is running on port: 3030 
+24.9.2023, 18:48:03 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:03 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:03 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:04 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:04 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:04 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:03 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:04 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:04 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:04 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:04 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:04 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:07 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:07 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 18:48:07 - INFO - Sample Logger Middleware 
+24.9.2023, 18:48:07 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:00:45 - INFO - Sample Logger Middleware 
+24.9.2023, 19:00:45 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:00:46 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:00:46 - INFO - Sample Logger Middleware 
+24.9.2023, 19:00:52 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:00:52 - INFO - Sample Logger Middleware 
+24.9.2023, 19:00:52 - INFO - Sample Logger Middleware 
+24.9.2023, 19:00:52 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:05:58 - INFO - Sample Logger Middleware 
+24.9.2023, 19:05:58 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:05:59 - INFO - Sample Logger Middleware 
+24.9.2023, 19:05:59 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:00 - INFO - Sample Logger Middleware 
+24.9.2023, 19:06:00 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:01 - INFO - Sample Logger Middleware 
+24.9.2023, 19:06:01 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:01 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:01 - INFO - Sample Logger Middleware 
+24.9.2023, 19:06:02 - INFO - Sample Logger Middleware 
+24.9.2023, 19:06:02 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:02 - INFO - Sample Logger Middleware 
+24.9.2023, 19:06:02 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:02 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:06:02 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:36 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:36 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:36 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:36 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:38 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:38 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:38 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:38 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:38 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:38 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:38 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:38 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:45 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:45 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:45 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:45 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:46 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:46 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:47 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:47 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:47 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:47 - INFO - Sample Logger Middleware 
+24.9.2023, 19:12:47 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:12:47 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:08 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:08 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:09 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:09 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:10 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:10 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:11 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:11 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:11 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:11 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 19:13:11 - INFO - Sample Logger Middleware 
+24.9.2023, 19:13:11 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:43 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:43 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:04:43 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:43 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:04:44 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:04:44 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:44 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:44 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:04:45 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:45 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:04:45 - INFO - Sample Logger Middleware 
+24.9.2023, 20:04:45 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:14:59 - INFO - Sample Logger Middleware 
+24.9.2023, 20:14:59 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:14:59 - INFO - Sample Logger Middleware 
+24.9.2023, 20:14:59 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:15:00 - INFO - Sample Logger Middleware 
+24.9.2023, 20:15:00 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:15:01 - INFO - Sample Logger Middleware 
+24.9.2023, 20:15:01 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:15:01 - INFO - Sample Logger Middleware 
+24.9.2023, 20:15:01 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:15:01 - INFO - Sample Logger Middleware 
+24.9.2023, 20:15:01 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:21:35 - INFO - Sample Logger Middleware 
+24.9.2023, 20:21:35 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:21:35 - INFO - Sample Logger Middleware 
+24.9.2023, 20:21:35 - INFO - Sample Logger Middleware 
+24.9.2023, 20:21:35 - INFO - Sample Logger Middleware 
+24.9.2023, 20:21:35 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:21:35 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:21:35 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:28:14 - INFO - Sample Logger Middleware 
+24.9.2023, 20:28:14 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:28:14 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:28:14 - INFO - Sample Logger Middleware 
+24.9.2023, 20:28:14 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:28:15 - INFO - getPlants from controller with query params: | {} 
+24.9.2023, 20:28:15 - INFO - Sample Logger Middleware 
+24.9.2023, 20:28:14 - INFO - Sample Logger Middleware 
