@@ -12,7 +12,18 @@ async function getPlants(req, res) {
     logger.error('Cannot get plants', err)
     res.status(500).send({ err: 'Failed to get plants' })
   }
-} 
+}
+
+async function getPlantsByCategory(req, res) {
+  try {
+    const plants = await plantService.query(req.query)
+    res.send(plants)
+  } catch (err) {
+    logger.error('Cannot get plants', err)
+    res.status(500).send({ err: 'Failed to get plants' })
+  }
+}
+
 
 async function addPlant(req, res) {
   // var loggedinPlant = authService.validateToken(req.cookies.loginToken)
@@ -55,23 +66,23 @@ async function addPlant(req, res) {
 async function updatePlant(req, res) {
   console.log('updatePlant')
   try {
-      const plant = req.body
-      const savedPlant = await plantService.update(plant)
-      res.send(savedPlant)
+    const plant = req.body
+    const savedPlant = await plantService.update(plant)
+    res.send(savedPlant)
   } catch (err) {
-      logger.error('Failed to update plant', err)
-      res.status(500).send({ err: 'Failed to update plant' })
+    logger.error('Failed to update plant', err)
+    res.status(500).send({ err: 'Failed to update plant' })
   }
 }
 
 async function getPlantById(req, res) {
   const plantId = req.params.plantId
   try {
-  const plant = await plantService.getPlantById(plantId)
-  console.log(plant)
-  res.send(plant)
-  logger.info('getPlantById from controller with plantId:', plantId)
-} catch (err) {
+    const plant = await plantService.getPlantById(plantId)
+    console.log(plant)
+    res.send(plant)
+    logger.info('getPlantById from controller with plantId:', plantId)
+  } catch (err) {
     logger.error('Failed to get plant', err)
     res.status(500).send({ err: 'Failed to get plant' })
   }
@@ -111,9 +122,9 @@ async function getPlantByIdAsJson(req, res) {
   // console.log('getPlantByIdAsJson from controller with plantId:', req.params.plantId)
   const plantId = req.params.plantId
   try {
-  const plant = await plantService.getPlantById(plantId)
-  res.send(plant)
-} catch (err) {
+    const plant = await plantService.getPlantById(plantId)
+    res.send(plant)
+  } catch (err) {
     logger.error('Failed to get plant AsJson', err)
     res.status(500).send({ err: 'Failed to get plant AsJson' })
   }
@@ -126,6 +137,7 @@ module.exports = {
   addPlant,
   updatePlant,
   getPlantById,
+  getPlantsByCategory,
   getPlantsAsJson,
   getPlantByIdAsJson
 }

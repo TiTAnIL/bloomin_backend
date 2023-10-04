@@ -41,17 +41,16 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/api/plants', plantRoutes)
+app.use('/plants', plantRoutes)
 app.use('/auth', authRoutes)
 app.use('/user', userRoutes)
+// app.use('/api', apiRoutes)
 setupSocketAPI(http)
 
 // Make every server-side-route to match the index.html
 app.get('/**', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html')); // Specify the full path
 });
-
-
 
 const port = process.env.PORT || 3030
 http.listen(port, () => {

@@ -6,18 +6,17 @@ const asyncLocalStorage = require('../../services/als.service')
 const collectionName = "plants"
 
 async function query(filterBy = null) {
-  console.log('plant.service - query', filterBy)
   try {
-    const criteria = _buildCriteria(filterBy);
-    const collection = await dbService.getCollection(collectionName);
+    const criteria = _buildCriteria(filterBy)
+    const collection = await dbService.getCollection(collectionName)
     const aggregationPipeline = [
       { $match: criteria },
-    ];
-    const plants = await collection.aggregate(aggregationPipeline).toArray();
-    return plants;
+    ]
+    const plants = await collection.aggregate(aggregationPipeline).toArray()
+    return plants
   } catch (err) {
-    logger.error('Cannot find plants', err);
-    throw err;
+    logger.error('Cannot find plants', err)
+    throw err
   }
 }
 
@@ -92,50 +91,145 @@ async function add(plant) {
 }
 
 function _buildCriteria(filterBy) {
-  const criteria = {};
-  // console.log('_buildCriteria filterBy', filterBy)
-
-  if (filterBy.name) {
-    criteria.name = { $regex: new RegExp(filterBy.name, 'i') };
+  const criteria = {}
+  const keyMappings = {
+    'priceRange.min': 'price.$gte',
+    'priceRange.max': 'price.$lte',
+    'Home': 'location',
+    'Office': 'location',
+    'Garden': 'location',
+    'Balcony': 'location',
+    'Sunny': 'lightning',
+    'Shadow': 'lightning',
+    'Moderate': 'lightning',
+    'Easy': 'difficulty',
+    'Medium': 'difficulty',
+    'Hard': 'difficulty',
+    'Rarely': 'irrigation',
+    'Moderate': 'irrigation',
+    'Frequently': 'irrigation'
   }
 
-  if (filterBy.priceRange) {
-    criteria.price = {
-      $gte: filterBy.priceRange.min,
-      $lte: filterBy.priceRange.max,
-    };
+  for (const key in filterBy) {
+    const mappingKey = keyMappings[key];
+    if (mappingKey) {
+      const field = mappingKey.split('.')
+      if (!criteria[field[0]]) {
+        criteria[field[0]] = {}
+      }
+      criteria[field[0]][field[1]] = filterBy[key]
+    }
   }
-
-  if (filterBy.watering) {
-    criteria.watering = filterBy.watering;
-  }
-
-  if (filterBy.lightning) {
-    criteria.lightning = filterBy.lightning;
-  }
-
-  if (filterBy.difficulty) {
-    criteria.difficulty = filterBy.difficulty;
-  }
-
-  if (filterBy.locations) {
-    const selectedLocations = Object.keys(filterBy.locations).filter(
-      (location) => filterBy.locations[location]
-    );
-    criteria.location = { $in: selectedLocations };
-  }
-  // console.log('_buildCriteria criteria', criteria)
-  return criteria;
+  return criteria
 }
 
+// function _buildCriteria(filterBy) {
+//   const criteria = {};
+
+//   for (const key in filterBy) {
+//     if (key === 'priceRange.min' || key === 'priceRange.max') {
+//       if (!criteria.price) {
+//         criteria.price = {}
+//       }
+//       if (key === 'priceRange.min') {
+//         criteria.price.$gte = filterBy[key]
+//       }
+//       if (key === 'priceRange.max') {
+//         criteria.price.$lte = filterBy[key]
+//       }
+//     }
+//     if (key === 'Home') {
+//       criteria.location = {
+//         $eq:
+//           location = key,
+//       }
+//     }
+//     if (key === 'Office') {
+//       criteria.location = {
+//         $eq:
+//           location = key,
+//       }
+//     }
+//     if (key === 'Garden') {
+//       criteria.location = {
+//         $eq:
+//           location = key,
+//       }
+//     }
+//     if (key === 'Balcony') {
+//       criteria.location = {
+//         $eq:
+//           location = key,
+//       }
+//     }
+//     if (key === 'Sunny') {
+//       criteria.lightning = {
+//         $eq:
+//           lightning = key,
+//       }
+//     }
+//     if (key === 'Shadow') {
+//       criteria.lightning = {
+//         $eq:
+//           lightning = key,
+//       }
+//     }
+//     if (key === 'Moderate') {
+//       criteria.lightning = {
+//         $eq:
+//           lightning = key,
+//       }
+//     }
+//     if (key === 'Easy') {
+//       criteria.difficulty = {
+//         $eq:
+//           difficulty = key,
+//       }
+//     }
+//     if (key === 'Medium') {
+//       criteria.difficulty = {
+//         $eq:
+//           difficulty = key,
+//       }
+//     }
+//     if (key === 'Hard') {
+//       criteria.difficulty = {
+//         $eq:
+//           difficulty = key,
+//       }
+//     }
+//     if (key === 'Rarely') {
+//       criteria.irrigation = {
+//         $eq:
+//           irrigation = key,
+//       }
+//     }
+//     if (key === 'Moderate') {
+//       criteria.irrigation = {
+//         $eq:
+//           irrigation = key,
+//       }
+//     }
+//     if (key === 'Frequently') {
+//       criteria.irrigation = {
+//         $eq:
+//           irrigation = key,
+//       }
+//     }
+
+//   }
+//   return criteria;
+// }
+
+
 async function getPlantById(plantId) {
-  const criteria = { _id: new ObjectId(plantId) };
+  const criteria = { _id: new ObjectId(plantId) }
   try {
-    const collection = await dbService.getCollection(collectionName);
-    const plant = await collection.findOne(criteria);
-    return plant;
+    const collection = await dbService.getCollection(collectionName)
+    const plant = await collection.findOne(criteria)
+    return plant
   } catch (err) {
-    console.error('plantService - getPlantById - Error:', err);
+    console.error('plantService - getPlantById - Error:', err)
     throw err;
   }
 }
