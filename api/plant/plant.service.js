@@ -67,7 +67,6 @@ async function update(plant) {
 
 async function add(plant) {
   try {
-    console.log('plant.service - add - plant:', plant)
     const plantToAdd = {
       name: plant.name,
       about: plant.about,
@@ -80,7 +79,6 @@ async function add(plant) {
       lightning: plant.lightning,
       watering: plant.watering,
     }
-    console.log('\n\n plant.service - add - plantToAdd:', plantToAdd, '\n\n')
     const collection = await dbService.getCollection(collectionName)
     await collection.insertOne(plantToAdd)
     return plantToAdd
@@ -90,165 +88,29 @@ async function add(plant) {
   }
 }
 
-// function _buildCriteria(filterBy) {
-//   console.log(filterBy)
-//   const criteria = {}
-//   const keyMappings = {
-//     'priceRange.min': 'price.$gte',
-//     'priceRange.max': 'price.$lte',
-//     'Home': 'location.$eq',
-//     'Office': 'location.$eq',
-//     'Garden': 'location.$eq',
-//     'Balcony': 'location.$eq',
-//     'Sunny': 'lightning',
-//     'Shadow': 'lightning',
-//     'Moderate': 'lightning',
-//     'Easy': 'difficulty',
-//     'Medium': 'difficulty',
-//     'Hard': 'difficulty',
-//     'Rarely': 'watering',
-//     'Moderate': 'watering',
-//     'Frequently': 'watering'
-//   }
-//   console.log('keyMappings', keyMappings)
-//   for (const key in filterBy) {
-//     const mappingKey = keyMappings[key];
-//     if (mappingKey) {
-//       const field = mappingKey.split('.')
-//       if (!criteria[field[0]]) {
-//         console.log('field[0]', field[0])
-//         criteria[field[0]] = {}
-//       }
-//       criteria[field[0]][field[1]] = filterBy[key]
-//     }
-//   }
-//   return criteria
-// }
-
 function _buildCriteria(filterBy) {
   const criteria = {};
-  console.log('filterBy', filterBy)
+  const filterMappings = {
+    'priceRange.min': { key: 'price', operator: '$gte' },
+    'priceRange.max': { key: 'price', operator: '$lte' },
+    'Home': { key: 'location', operator: '$eq' },
+    'Office': { key: 'location', operator: '$eq' },
+    'Garden': { key: 'location', operator: '$eq' },
+    'Balcony': { key: 'location', operator: '$eq' },
+    'difficulty': { key: 'difficulty', operator: '$eq' },
+    'lightning': { key: 'lightning', operator: '$eq' },
+    'watering': { key: 'irrigation', operator: '$eq' }
+  };
+
   for (const key in filterBy) {
-    console.log('key', key)
-    if (key === 'priceRange.min' || key === 'priceRange.max') {
-      if (!criteria.price) {
-        criteria.price = {}
-      }
-      if (key === 'priceRange.min') {
-        criteria.price.$gte = filterBy[key]
-      }
-      if (key === 'priceRange.max') {
-        criteria.price.$lte = filterBy[key]
-      }
+    if (filterMappings[key]) {
+      const { key: field, operator } = filterMappings[key];
+      criteria[field] = criteria[field] || {};
+      criteria[field][operator] = filterBy[key];
     }
-    if (key === 'Home') {
-      criteria.location = {
-        $eq: key
-      }
-      console.log('criteria.location', criteria.location)
-    }
-    if (key === 'Office') {
-      criteria.location = {
-        $eq: key
-      }
-      console.log('criteria.location', criteria.location)
-    }
-    if (key === 'Garden') {
-      criteria.location = {
-        $eq: key
-      }
-      console.log('criteria.location', criteria.location)
-    }
-    if (key === 'Balcony') {
-      criteria.location = {
-        $eq: key
-      }
-      console.log('criteria.location', criteria.location)
-    }
-    if (key === 'difficulty') {
-      console.log('difficulty key', key, filterBy[key])
-      criteria.difficulty = {
-        $eq: filterBy[key]
-      }
-    }
-    if (key === 'lightning') {
-      console.log('lightning key', key, filterBy[key])
-      criteria.lightning = {
-        $eq: filterBy[key]
-      }
-    }
-    if (key === 'watering') {
-      console.log('watering key', key, filterBy[key])
-      criteria.irrigation = {
-        $eq: filterBy[key]
-      }
-    }
-
-   
-
-  
-
-    // if (key === 'Sunny') {
-    //   criteria.lightning = {
-    //     $eq:
-    //       lightning = key,
-    //   }
-    // }
-    // if (key === 'Shadow') {
-    //   criteria.lightning = {
-    //     $eq:
-    //       lightning = key,
-    //   }
-    // }
-    // if (key === 'Moderate') {
-    //   criteria.lightning = {
-    //     $eq:
-    //       lightning = key,
-    //   }
-    // }
-    // if (key === 'Easy') {
-    //   criteria.difficulty = {
-    //     $eq:
-    //       difficulty = key,
-    //   }
-    // }
-    // if (key === 'Medium') {
-    //   criteria.difficulty = {
-    //     $eq:
-    //       difficulty = key,
-    //   }
-    // }
-    // if (key === 'Hard') {
-    //   criteria.difficulty = {
-    //     $eq:
-    //       difficulty = key,
-    //   }
-    // }
-    // if (key === 'Rarely') {
-    //   criteria.watering = {
-    //     $eq:
-    //       watering = key,
-    //   }
-    // }
-    // if (key === 'Moderate') {
-    //   criteria.watering = {
-    //     $eq:
-    //       watering = key,
-    //   }
-    // }
-    // if (key === 'Frequently') {
-    //   criteria.watering = {
-    //     $eq:
-    //       watering = key,
-    //   }
-    // }
-
   }
-  console.log('criteria', criteria)
-
   return criteria;
 }
-
 
 async function getPlantById(plantId) {
   const criteria = { _id: new ObjectId(plantId) }
