@@ -14654,3 +14654,441 @@
 16.10.2023, 22:04:49 - INFO - getPlants from controller with query params: | {} 
 16.10.2023, 22:04:49 - INFO - getPlants from controller with query params: | {} 
 16.10.2023, 22:04:49 - INFO - Sample Logger Middleware 
+16.10.2023, 22:13:59 - INFO - Sample Logger Middleware 
+16.10.2023, 22:13:59 - INFO - Sample Logger Middleware 
+16.10.2023, 22:14:31 - INFO - Server is running on port: 3030 
+16.10.2023, 22:14:35 - INFO - Sample Logger Middleware 
+16.10.2023, 22:21:03 - INFO - Sample Logger Middleware 
+16.10.2023, 22:21:03 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 22:26:18 - INFO - Sample Logger Middleware 
+16.10.2023, 22:26:18 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 22:26:18 - INFO - Sample Logger Middleware 
+16.10.2023, 22:26:18 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:30:09 - INFO - Sample Logger Middleware 
+16.10.2023, 23:30:09 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:30:10 - INFO - Sample Logger Middleware 
+16.10.2023, 23:30:10 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:30:10 - INFO - Sample Logger Middleware 
+16.10.2023, 23:30:10 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:30:10 - INFO - Sample Logger Middleware 
+16.10.2023, 23:30:10 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:30:10 - INFO - Sample Logger Middleware 
+16.10.2023, 23:30:10 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:20 - INFO - Sample Logger Middleware 
+16.10.2023, 23:33:20 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:20 - INFO - Sample Logger Middleware 
+16.10.2023, 23:33:20 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:20 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:21 - INFO - Sample Logger Middleware 
+16.10.2023, 23:33:21 - INFO - Sample Logger Middleware 
+16.10.2023, 23:33:21 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:21 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:33:20 - INFO - Sample Logger Middleware 
+16.10.2023, 23:34:03 - INFO - Sample Logger Middleware 
+16.10.2023, 23:34:03 - INFO - Sample Logger Middleware 
+16.10.2023, 23:34:03 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+16.10.2023, 23:34:03 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+16.10.2023, 23:35:14 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:35:14 - INFO - Sample Logger Middleware 
+16.10.2023, 23:35:14 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:35:14 - INFO - Sample Logger Middleware 
+16.10.2023, 23:35:14 - INFO - Sample Logger Middleware 
+16.10.2023, 23:35:14 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:41:07 - INFO - Sample Logger Middleware 
+16.10.2023, 23:41:08 - INFO - Sample Logger Middleware 
+16.10.2023, 23:41:08 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+16.10.2023, 23:41:08 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+16.10.2023, 23:41:57 - INFO - Sample Logger Middleware 
+16.10.2023, 23:41:57 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:41:58 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:41:58 - INFO - Sample Logger Middleware 
+16.10.2023, 23:41:58 - INFO - Sample Logger Middleware 
+16.10.2023, 23:41:58 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:51:30 - INFO - Sample Logger Middleware 
+16.10.2023, 23:51:30 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:51:31 - INFO - Sample Logger Middleware 
+16.10.2023, 23:51:31 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:51:31 - INFO - Sample Logger Middleware 
+16.10.2023, 23:51:31 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:53:25 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:53:25 - INFO - Sample Logger Middleware 
+16.10.2023, 23:53:26 - INFO - Sample Logger Middleware 
+16.10.2023, 23:53:26 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:53:28 - INFO - Sample Logger Middleware 
+16.10.2023, 23:53:28 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:53:28 - INFO - Sample Logger Middleware 
+16.10.2023, 23:53:28 - INFO - getPlants from controller with query params: | {} 
+16.10.2023, 23:57:50 - INFO - Sample Logger Middleware 
+16.10.2023, 23:57:50 - INFO - Sample Logger Middleware 
+16.10.2023, 23:57:50 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+16.10.2023, 23:57:50 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 0:01:17 - INFO - Sample Logger Middleware 
+17.10.2023, 0:01:17 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 11:57:40 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:57:40 - INFO - Sample Logger Middleware 
+17.10.2023, 11:57:41 - INFO - Sample Logger Middleware 
+17.10.2023, 11:57:41 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:57:41 - INFO - Sample Logger Middleware 
+17.10.2023, 11:57:41 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:57:43 - INFO - Sample Logger Middleware 
+17.10.2023, 11:57:44 - INFO - Sample Logger Middleware 
+17.10.2023, 11:57:44 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 11:57:44 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 11:58:06 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:06 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:07 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:07 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:07 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:07 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:09 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:09 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:09 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 11:58:09 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 11:58:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:28 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:28 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:29 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:30 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:30 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:30 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:30 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:31 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:58:31 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:32 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:32 - INFO - Sample Logger Middleware 
+17.10.2023, 11:58:32 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+17.10.2023, 11:58:32 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+17.10.2023, 11:59:41 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:59:41 - INFO - Sample Logger Middleware 
+17.10.2023, 11:59:41 - INFO - Sample Logger Middleware 
+17.10.2023, 11:59:41 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:59:41 - INFO - Sample Logger Middleware 
+17.10.2023, 11:59:41 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 11:59:42 - INFO - Sample Logger Middleware 
+17.10.2023, 11:59:42 - INFO - Sample Logger Middleware 
+17.10.2023, 11:59:42 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 11:59:42 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:35:23 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:23 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:25 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:25 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:25 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:25 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:26 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:27 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:27 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:35:27 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:35:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:35:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:48 - INFO - Sample Logger Middleware 
+17.10.2023, 12:35:48 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+17.10.2023, 12:35:48 - INFO - getPlantById from controller with plantId: | 64f9ddba3c9fc5db44288816 
+17.10.2023, 12:36:08 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:08 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:08 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:08 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:08 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:08 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:08 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:09 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:09 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:36:09 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:36:32 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:32 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:33 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:33 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:33 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:36:33 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:34 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:34 - INFO - Sample Logger Middleware 
+17.10.2023, 12:36:35 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:36:35 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:39:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:24 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:27 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:27 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:27 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:39:27 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:39:42 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:42 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:42 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:42 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:43 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:43 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:39:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:39:45 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:39:46 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:40:22 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:22 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:22 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:22 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:23 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:23 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:23 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:24 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:24 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:40:24 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:40:35 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:35 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:35 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:35 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:35 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:35 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:40:36 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:36 - INFO - Sample Logger Middleware 
+17.10.2023, 12:40:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:40:36 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:47:14 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:47:14 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:14 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:47:14 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:15 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:47:15 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:15 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:15 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:47:15 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:15 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:47:16 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:16 - INFO - Sample Logger Middleware 
+17.10.2023, 12:47:16 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:47:16 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:08 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:08 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:09 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:09 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:09 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:09 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:09 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:10 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:10 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:10 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:32 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:32 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:32 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:32 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:45 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:46 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:46 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:47 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:47 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:56 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:56 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:56 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:56 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:57 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:57 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:48:57 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:57 - INFO - Sample Logger Middleware 
+17.10.2023, 12:48:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:48:57 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:49:06 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:06 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:06 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:06 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:07 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:49:07 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:49:27 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:27 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:49:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:49:29 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:49:29 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:51:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:28 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:29 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:29 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:30 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:30 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:30 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:51:31 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:51:43 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:43 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:44 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:44 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:44 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:44 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:46 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:46 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:46 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:46 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:47 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:51:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:51:47 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:51:48 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 12:52:06 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:06 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:06 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:06 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:07 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:07 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:07 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:52:07 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:52:22 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:22 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:22 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:22 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:22 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:22 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:28 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:28 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:52:28 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:52:46 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:46 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:46 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:46 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:47 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 12:52:47 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:48 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:49 - INFO - Sample Logger Middleware 
+17.10.2023, 12:52:49 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 12:52:49 - INFO - getPlantById from controller with plantId: | 64f9ddad3c9fc5db44288815 
+17.10.2023, 18:55:01 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:01 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:01 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:01 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:02 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:02 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:02 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:02 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:55:02 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:55:17 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:17 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:18 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:18 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:18 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:18 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:32 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:32 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:32 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:32 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:32 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:32 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:32 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:32 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:33 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:33 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:42 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:42 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:43 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:43 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:43 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:43 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:45 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:45 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:45 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:55:45 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:46 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:46 - INFO - Sample Logger Middleware 
+17.10.2023, 18:55:46 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:55:46 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:56:10 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:10 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:56:10 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:56:11 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:11 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:56:10 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:11 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:11 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:56:11 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:11 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:56:12 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:12 - INFO - Sample Logger Middleware 
+17.10.2023, 18:56:12 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:56:12 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 18:59:59 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:59:59 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 18:59:59 - INFO - Sample Logger Middleware 
+17.10.2023, 18:59:59 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:00 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:00 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:00 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:00 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:00 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:00 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:03 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:03 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:03 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:03 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:03 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:03 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:00:03 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:03 - INFO - Sample Logger Middleware 
+17.10.2023, 19:00:03 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 19:00:04 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 19:08:27 - INFO - Sample Logger Middleware 
+17.10.2023, 19:08:27 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:08:27 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:08:27 - INFO - Sample Logger Middleware 
+17.10.2023, 19:08:27 - INFO - Sample Logger Middleware 
+17.10.2023, 19:08:27 - INFO - getPlants from controller with query params: | {} 
+17.10.2023, 19:08:28 - INFO - Sample Logger Middleware 
+17.10.2023, 19:08:28 - INFO - Sample Logger Middleware 
+17.10.2023, 19:08:28 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+17.10.2023, 19:08:29 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+18.10.2023, 0:38:07 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:07 - INFO - getPlants from controller with query params: | {} 
+18.10.2023, 0:38:08 - INFO - getPlants from controller with query params: | {} 
+18.10.2023, 0:38:08 - INFO - getPlants from controller with query params: | {} 
+18.10.2023, 0:38:08 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:08 - INFO - getPlants from controller with query params: | {} 
+18.10.2023, 0:38:09 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:08 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:09 - INFO - getPlants from controller with query params: | {} 
+18.10.2023, 0:38:08 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:11 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:11 - INFO - Sample Logger Middleware 
+18.10.2023, 0:38:11 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+18.10.2023, 0:38:11 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 

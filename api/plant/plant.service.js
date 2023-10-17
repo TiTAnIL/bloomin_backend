@@ -21,7 +21,6 @@ async function query(filterBy = null) {
 }
 
 async function remove(plantId) {
-  console.log('remove plantId', plantId)
   try {
     // const store = asyncLocalStorage.getStore()
     // const { loggedinUser } = store
@@ -39,9 +38,6 @@ async function remove(plantId) {
 
 async function update(plant) {
   try {
-    console.log(plant._id)
-    console.log(typeof (plant._id), '\n')
-    // peek only updatable properties
     const plantToSave = {
       _id: new ObjectId(plant._id),
       name: plant.name,
@@ -91,6 +87,7 @@ async function add(plant) {
 function _buildCriteria(filterBy) {
   const criteria = {};
   const filterMappings = {
+    'name' : { key: 'name', operator: '$regex' },
     'priceRange.min': { key: 'price', operator: '$gte' },
     'priceRange.max': { key: 'price', operator: '$lte' },
     'Home': { key: 'location', operator: '$eq' },
@@ -100,13 +97,13 @@ function _buildCriteria(filterBy) {
     'difficulty': { key: 'difficulty', operator: '$eq' },
     'lightning': { key: 'lightning', operator: '$eq' },
     'watering': { key: 'irrigation', operator: '$eq' }
-  };
+  }
 
   for (const key in filterBy) {
     if (filterMappings[key]) {
-      const { key: field, operator } = filterMappings[key];
-      criteria[field] = criteria[field] || {};
-      criteria[field][operator] = filterBy[key];
+      const { key: field, operator } = filterMappings[key]
+      criteria[field] = criteria[field] || {}
+      criteria[field][operator] = filterBy[key]
     }
   }
   return criteria;
