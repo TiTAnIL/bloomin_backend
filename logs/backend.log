@@ -15092,3 +15092,131 @@
 18.10.2023, 0:38:11 - INFO - Sample Logger Middleware 
 18.10.2023, 0:38:11 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
 18.10.2023, 0:38:11 - INFO - getPlantById from controller with plantId: | 64f9dd7e3c9fc5db44288814 
+7.10.2024, 20:15:12 - INFO - Server is running on port: 3030 
+7.10.2024, 20:20:51 - INFO - Sample Logger Middleware 
+7.10.2024, 20:20:51 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:20:51 - INFO - Sample Logger Middleware 
+7.10.2024, 20:20:51 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:20:51 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:51 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:51 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:51 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:54 - INFO - Sample Logger Middleware 
+7.10.2024, 20:20:54 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:20:54 - INFO - Sample Logger Middleware 
+7.10.2024, 20:20:54 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:20:54 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:54 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:54 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:20:54 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:00 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:00 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:00 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:00 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:00 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:00 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:03 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:03 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:03 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:03 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:03 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:03 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:03 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:03 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:12 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:12 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:12 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:12 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:12 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:12 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:12 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:12 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:19 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:19 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:19 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:21:19 - INFO - Sample Logger Middleware 
+7.10.2024, 20:21:19 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:19 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:19 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:21:19 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - INFO - Sample Logger Middleware 
+7.10.2024, 20:22:49 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:22:49 - INFO - Sample Logger Middleware 
+7.10.2024, 20:22:49 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:22:49 - INFO - Sample Logger Middleware 
+7.10.2024, 20:22:49 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:22:49 - INFO - Sample Logger Middleware 
+7.10.2024, 20:22:49 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:22:49 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:22:49 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:00 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:00 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:00 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:00 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:00 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:00 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:10 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:10 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:10 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:10 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:10 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:10 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:10 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:10 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:11 - INFO - Sample Logger Middleware 
+7.10.2024, 20:23:11 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 20:23:11 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot find plants | ReferenceError: logger is not defined 
+7.10.2024, 20:23:11 - ERROR - Cannot get plants | ReferenceError: logger is not defined 
+7.10.2024, 21:57:45 - INFO - Sample Logger Middleware 
+7.10.2024, 21:57:45 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 21:57:45 - INFO - Sample Logger Middleware 
+7.10.2024, 21:57:45 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 21:57:46 - INFO - Sample Logger Middleware 
+7.10.2024, 21:57:46 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 21:57:46 - INFO - Sample Logger Middleware 
+7.10.2024, 21:57:46 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 21:57:46 - INFO - Sample Logger Middleware 
+7.10.2024, 21:57:46 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:01:17 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:18 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:18 - INFO - getPlantById from controller with plantId: | 64f9ddc63c9fc5db44288817 
+7.10.2024, 22:01:18 - INFO - getPlantById from controller with plantId: | 64f9ddc63c9fc5db44288817 
+7.10.2024, 22:01:58 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:58 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:01:58 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:58 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:01:58 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:58 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:01:59 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:59 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:01:59 - INFO - Sample Logger Middleware 
+7.10.2024, 22:01:59 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:02:00 - INFO - Sample Logger Middleware 
+7.10.2024, 22:02:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:02:00 - INFO - getPlants from controller with query params: | {} 
+7.10.2024, 22:02:00 - INFO - Sample Logger Middleware 
+7.10.2024, 22:02:00 - INFO - Sample Logger Middleware 
+7.10.2024, 22:02:00 - INFO - getPlants from controller with query params: | {} 
+10.10.2024, 14:48:39 - INFO - Server is running on port: 3030 
+10.10.2024, 19:05:32 - INFO - Sample Logger Middleware 
+10.10.2024, 19:05:32 - INFO - getPlants from controller with query params: | {} 
+10.10.2024, 19:05:33 - INFO - Sample Logger Middleware 
+10.10.2024, 19:05:33 - INFO - getPlants from controller with query params: | {} 
